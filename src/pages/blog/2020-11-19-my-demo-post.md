@@ -3,7 +3,7 @@ templateKey: blog-post
 title: My Demo Post
 date: 2020-11-19T22:35:35.927Z
 description: This is just a small content created for the purpose of demoing this blog
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dt100429.gif
 tags:
   - demo
